@@ -4,4 +4,4 @@ this notebooks predicts the  the prices of California housing using Stochastic G
 <br>
 dataset used : the dataset is provide by sklearn.To import th dataset use the following code :
 <br>
-`housing_data = california_housing.fetch_california_housing()`
+'housing_data = california_housing.fetch_california_housing()'
